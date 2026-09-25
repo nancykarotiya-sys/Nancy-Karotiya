@@ -14,7 +14,6 @@ I'm a Computer Science graduate interested in Data Analytics and Business Intell
 
 ### 📊 Projects
 - Pizza Sales Analysis using SQL
-- Netflix Data Analysis using SQL
 - Sales Dashboard using Excel
 - Power BI Dashboard
 
